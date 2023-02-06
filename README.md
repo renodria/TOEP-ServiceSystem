@@ -1,6 +1,6 @@
 # TOEP-ServiceSystem
 
-#### [Demo](https://renodria.github.io/toep/)
+#### [Demo](https://renodria.github.io/TOEP-ServiceSystem/)
 
 ### Sistem Informasi Pelayanan TOEP
 
